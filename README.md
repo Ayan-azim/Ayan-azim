@@ -1,16 +1,91 @@
-## Hi there 👋
+Hi, I'm Ayan
 
-<!--
-**Ayan-azim/Ayan-azim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in Artificial Intelligence, Machine Learning, Software Development, and Computer Vision.
 
-Here are some ideas to get you started:
+I like building things across different areas of software — from machine learning and AI applications to web, mobile, backend systems, and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me................
+- Currently focusing on AI/ML and Computer Vision
+- Experience building projects across web, mobile, backend, and desktop development
+- Comfortable working with multiple programming languages and technology stacks
+- Interested in understanding systems beyond just using frameworks and libraries
+- Enjoy experimenting with new technologies and building practical projects
+- Currently exploring AI-powered applications, model training, and software engineering
+
+Languages................
+- Python
+- Java
+- C
+- C++
+- C#
+- JavaScript
+
+AI / Machine Learning...........
+- Machine Learning
+- Supervised Learning
+- Computer Vision
+- OpenCV
+- Tesseract
+- Model Training
+- Image Classification
+
+Web Development...........
+
+Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Three.js
+
+Backend
+- Node.js
+- Laravel
+- Laravel Breeze
+
+Mobile Development...........
+- Flutter
+- Android Studio
+
+Databases............
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+
+Tools & Technologies..............
+- Git & GitHub
+- Docker
+- VS Code
+- GitHub Copilot
+
+Projects..............
+StructoX
+
+An AI-assisted floor-plan analysis system that processes 2D floor-plan images, extracts structural information, generates spatial representations, and provides material and cost-related suggestions.
+
+Tech: Python, OpenCV, Tesseract, Three.js, JavaScript, HTML/CSS, Gemini
+
+AI / Computer Vision Projects......
+Working on supervised-learning and computer-vision projects involving dataset preparation, image classification, model training, and evaluation.
+
+QuickChat......
+A real-time messaging application built as a software development project.
+Technologies: JavaScript, Node.js, React, database technologies
+
+Gemini Chatbot.......
+An AI chatbot application built around Google's Gemini models, with a focus on integrating generative AI into a practical application.
+Technologies: Python, Gemini API, Git, GitHub
+
+Currently Learning
+- Advanced Machine Learning
+- Computer Vision
+- AI model training
+- AI application development
+- Full-stack development
+- Model deployment
+
+GitHub Stats
+"Ayan's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Ayan-azim&show_icons=true&theme=transparent)
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=Ayan-azim& idtheme=transparent)
