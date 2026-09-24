@@ -84,8 +84,3 @@ Currently Learning
 - AI application development
 - Full-stack development
 - Model deployment
-
-GitHub Stats
-"Ayan's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Ayan-azim&show_icons=true&theme=transparent)
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=Ayan-azim& idtheme=transparent)
